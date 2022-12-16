@@ -1,4 +1,5 @@
 <h1> Spotify-Clone </h1>
+<h1> Ananya 101903125 4COE10 </h1>
 
 <h2>A front-end simulation of the Spotify web player</h2>
 
